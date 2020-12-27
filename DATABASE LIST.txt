@@ -1,5 +1,7 @@
 BAI 1
 
+CREATE DATABASE Bai1
+GO
 USE [Bai1]
 GO
 /****** Object:  Table [dbo].[DIEMCHUAN]    Script Date: 12/27/2020 2:55:30 PM ******/
